@@ -1,2 +1,2 @@
 # token-contract
-Token contract for PUF token
+Token contract for PUFT token
